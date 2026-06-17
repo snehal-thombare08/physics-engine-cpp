@@ -15,7 +15,7 @@ A real-time 2D physics simulation built with **C++** and **SFML 3.0**, featuring
 - **Multi-substep collision resolution** for stability even with 100+ balls on screen
 - **Air friction/drag** for natural energy decay over time
 ## screenshot
-https://raw.githubusercontent.com/snehal-thombare08/physics-engine-cpp/main/Screenshot%202026-06-17%20125610.png
+![Physics Engine Preview](https://raw.githubusercontent.com/snehal-thombare08/physics-engine-cpp/main/Screenshot%202026-06-17%20125610.png)
 
 ## 🎮 Controls
 
